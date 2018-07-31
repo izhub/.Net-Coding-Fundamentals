@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\bin\Debug\12-ObjectLifeTime.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\bin\Debug\12-ObjectLifeTime.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\bin\Debug\12-ObjectLifeTime.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\obj\Debug\12-ObjectLifeTime.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\obj\Debug\12-ObjectLifeTime.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\12-ObjectLifeTime\obj\Debug\12-ObjectLifeTime.pdb

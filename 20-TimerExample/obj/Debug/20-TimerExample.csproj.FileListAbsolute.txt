@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\bin\Debug\20-TimerExample.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\bin\Debug\20-TimerExample.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\bin\Debug\20-TimerExample.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\obj\Debug\20-TimerExample.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\obj\Debug\20-TimerExample.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-TimerExample\obj\Debug\20-TimerExample.pdb

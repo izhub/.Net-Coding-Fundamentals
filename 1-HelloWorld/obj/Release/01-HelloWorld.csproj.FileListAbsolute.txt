@@ -1,0 +1,5 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Release\1-HelloWorld.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Release\1-HelloWorld.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Release\1-HelloWorld.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\obj\Release\1-HelloWorld.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\obj\Release\1-HelloWorld.pdb

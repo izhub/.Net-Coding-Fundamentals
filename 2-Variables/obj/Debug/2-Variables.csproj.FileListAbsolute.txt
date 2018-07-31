@@ -1,0 +1,5 @@
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Debug\2-Variables.exe.config
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Debug\2-Variables.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Debug\2-Variables.pdb
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\obj\Debug\2-Variables.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\obj\Debug\2-Variables.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Release\2-Variables.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Release\2-Variables.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\bin\Release\2-Variables.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\obj\Release\02-Variables.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\obj\Release\2-Variables.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\2-Variables\obj\Release\2-Variables.pdb

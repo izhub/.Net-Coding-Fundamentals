@@ -1,0 +1,5 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\9-WorkingWithStrings\bin\Release\9-WorkingWithStrings.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\9-WorkingWithStrings\bin\Release\9-WorkingWithStrings.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\9-WorkingWithStrings\bin\Release\9-WorkingWithStrings.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\9-WorkingWithStrings\obj\Release\9-WorkingWithStrings.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\9-WorkingWithStrings\obj\Release\9-WorkingWithStrings.pdb

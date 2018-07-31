@@ -1,0 +1,842 @@
+<!DOCTYPE html>        
+    
+    <html dir="ltr" lang="en" data-amd-enabled="true" xmlns="http://www.w3.org/1999/xhtml">
+    <head><link rel="canonical" href="https://msdn.microsoft.com/en-us/dn308572.aspx" />
+        <title>Learn to Develop with Microsoft Developer Network | MSDN</title>
+        
+
+<meta name="AmbientContext" content="{&quot;layout.limit_max_width&quot;:true,&quot;AmbientContextId&quot;:&quot;9659872B-D7FE-4FBB-8893-040CB5D16512&quot;,&quot;display.use_large_font&quot;:true,&quot;insight.perf_timing&quot;:true,&quot;AmbientContextDownstream&quot;:{&quot;LogTrace&quot;:false},&quot;display.high_contrast&quot;:false,&quot;insight.use_wedcs_vnext&quot;:true}" />
+
+<meta name="DCS.dcsuri" content="/en-us/dn308572(d=default,l=en-us,v=msdn.10).aspx" />
+
+<meta name="Description" content="Find the latest resources for developers. On Microsoft Developer Network, you can learn to build apps for the web, Windows Phone, and Xbox." />
+
+<meta name="last-modified" content="2016-09-12 23:25:57Z" />
+
+<meta name="MN" content="9DDD8834-3:40:42 PM" />
+
+<meta name="ms.assetid" content="153034a4-6dd7-42d4-9397-bb50d30a478d" />
+
+<meta name="ms.auth" content="0" />
+
+<meta name="ms.contentlang" content="EN" />
+
+<meta name="ms.lang" content="EN" />
+
+<meta name="ms.loc" content="US" />
+
+<meta name="ms.locale" content="en-us" />
+
+<meta name="ms.normalizedurl" content="https://msdn.microsoft.com/en-us/dn308572(d=default,l=en-us,v=msdn.10).aspx" />
+
+<meta name="ms.prodver" content="MSDN.10" />
+
+<meta name="ms.shortidmsdn" content="dn308572" />
+
+<meta name="ms.sitever" content="2016.12.05.1" />
+
+<meta name="MSHAttr" content="PreferredLib:/" />
+
+<meta name="MSHAttr" content="PreferredSiteName:MSDN" />
+
+<meta name="NormalizedUrl" content="https://msdn.microsoft.com/en-us/dn308572(d=default,l=en-us,v=msdn.10).aspx" />
+
+<meta name="search.content.locale" content="en-us" />
+
+<meta name="search.content.shortId" content="dn308572" />
+
+<meta name="Search.Filters.Brand" content="MSDN" />
+
+<meta name="Search.Filters.Source" content="Documentation and Articles" />
+
+<meta name="Search.Filters.SourceID" content="1" />
+
+<meta name="Search.MSCategory" content="dn305830" />
+
+<meta name="Search.MSCategory" content="dn308572" />
+
+<meta name="Search.MSCategory" content="dn753799" />
+
+<meta name="Search.ShortId" content="dn308572" />
+
+<meta name="Search.TocNodeId" content="dn308572" />
+
+<meta name="Keywords" content="microsoft developer network, development, develop, msdn" />
+
+<meta name="Title" content="Learn to Develop with Microsoft Developer Network | MSDN" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta name="VotingContextUrl" content="https://msdn.microsoft.com/en-us/dn308572(d=default,l=en-us,v=msdn.10).aspx" />
+        <meta http-equiv="content-language" content="en" />
+        
+        
+        
+        
+    
+
+        <script type="text/javascript" data-do-not-move="true">
+            //<![CDATA[
+            var AmbientContext = null;
+
+            (function () {
+                var root = (function () { return this; }).call(null);
+
+                var GetCookie = function (name) {
+                    var cookies = root.document.cookie ? root.document.cookie.split('; ') : [];
+                    for (var i = 0; i < cookies.length; i++) {
+                        var pos = cookies[i].indexOf('=');
+                        if (name === root.decodeURIComponent(cookies[i].slice(0, pos))) {
+                            var cookie = cookies[i].slice(pos + 1).replace(/\+/g, ' ');
+                            cookie = root.decodeURIComponent(cookie);
+                            return cookie;
+                        }
+                    }
+                };
+
+                var JsonDeserialize = function (content) {
+                    return root.JSON && root.JSON.parse ? root.JSON.parse(content) : (new Function('return (' + content + ')'))();
+                };
+
+                try {
+                    AmbientContext = GetCookie('AmbientContext');
+                    AmbientContext = AmbientContext && JsonDeserialize(AmbientContext);
+                } catch (ex) {
+                } finally {
+                    AmbientContext = AmbientContext || null;
+                }
+            })();
+            //]]>
+        </script>
+        
+
+        
+    
+
+        
+        
+
+        
+        
+        
+        
+        
+        <script type="text/javascript" data-do-not-move="true">
+            //<![CDATA[
+            window.appInsightsId = 'f1505ffb-5942-4877-9717-de45ab5d843b';
+            //]]>
+        </script>
+        
+        
+
+
+
+        
+
+    <link rel="stylesheet" type="text/css" href="https://i-msdn.sec.s-msft.com/Combined.css?resources=0:Reset,0:Layout,1:ImageSprite,1:MsdnLayout,2:jquery-ui-1.10.3.custom,3:SMSGenericTemplate,4:Header,4:HeaderFooterSprite,4:Header.MediaQueries,5:Banner.MediaQueries,2:Breadcrumbs,1:Breadcrumbs,3:NoTemplate,3:CTAType,4:Footer,4:Footer.MediaQueries,3:NewFooterSock,3:NewFooterSock.MediaQueries,3:LinkList;/Areas/Centers/Themes/Base/Content:0,/Areas/Centers/Themes/MsdnBase/Content:1,/Areas/Epx/Content/Css:2,/Areas/Epx/Themes/Base/Content:3,/Areas/Centers/Themes/StandardDevCenter/Content:4,/Areas/Epx/Shared/Content:5&amp;amp;v=FD200EE38C9DCE810E0ABB7F7D8779CD" /><script type="text/javascript" src="https://i2-msdn.sec.s-msft.com/Areas/Global/Content/Loader.js" class="mtps-injected"></script><script type="text/javascript" class="mtps-injected">
+/*<![CDATA[*/
+(function() {
+	window.mtpsAmd = true;
+	var amdCombinedUrl = "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:MobileInit,1:jquery-ui-1.10.3.custom.min,1:Utilities,1:FixJQueryMobileDefaultScroll,2:Layout,0:responsive,1:AppInsightsPerf,2:SearchBox,3:Header,2:Rating,2:NewFooterSock,3:Footer;/Areas/Centers/Themes/Base/Content:0,/Areas/Epx/Content/Scripts:1,/Areas/Epx/Themes/Base/Content:2,/Areas/Centers/Themes/StandardDevCenter/Content:3&amp;hashKey=18E31B0DB7BF0A39C0CF27959825A897&amp;v=C36E9EA3B32559D214B9A346BA9EC304";
+
+	require.config({ paths: { jquery: "https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js", bootstrap: "https://nexus.ensighten.com/msdn/Bootstrap.js", mobileInit: amdCombinedUrl, jqueryUi: amdCombinedUrl, jQueryMobile: "https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.3.0/jquery.mobile-1.3.0.min.js", utilities: amdCombinedUrl, fixJQueryMobileDefaultScroll: amdCombinedUrl, layout: amdCombinedUrl, responsive: amdCombinedUrl, appInsightsPerf: amdCombinedUrl, searchBox: amdCombinedUrl, searchBoxJss: "https://i1.services.social.microsoft.com/search/Widgets/SearchBox.jss?boxid=HeaderSearchTextBox&btnid=HeaderSearchButton&minimumTermLength=2&pgArea=header&brand=Msdn&loc=en-us&focusOnInit=false&emptyWatermark=true&searchButtonTooltip=Search MSDN", header: amdCombinedUrl, rating: amdCombinedUrl, newFooterSock: amdCombinedUrl, footer: amdCombinedUrl, broker: "https://www.microsoft.com/library/svy/sto/https/broker.js" }, ignoreDuplicateModules: ["jquery", "mobileInit", "jqueryUi", "jQueryMobile", "utilities", "layout"] });
+
+	require.config({ shim: { "bootstrap": { deps: ["jquery"], exports: "bootstrap" }, "searchBoxJss": { exports: "searchBoxJss" }, "broker": { exports: "broker" }} });
+
+	require(["bootstrap"], function() {});
+	require(["fixJQueryMobileDefaultScroll"], function() {});
+	require(["responsive"], function() {});
+	require(["appInsightsPerf"], function() {});
+	require(["searchBox"], function() {});
+	require(["searchBoxJss"], function() {});
+	require(["header"], function() {});
+	require(["rating"], function() {});
+	require(["newFooterSock"], function() {});
+	require(["footer"], function() {});
+	require(["broker"], function() {});
+}());
+/*]]>*/
+</script></head>
+    <body class="">
+        <div id="page">
+            
+
+
+            
+
+    
+    <link type="text/css" rel="stylesheet" />
+    
+        
+        
+    <input type="hidden" id="isHeaderBleeding" value="true" />
+    <div id="ux-header" dir="ltr" class="ltr msdn" ms.pgarea="header">
+        
+
+      <header>
+        <span id="singleCol"></span>
+        <span id="doubleCol"></span>
+        <span id="isMobile"></span>
+        <div>
+          <div class="row topRow" role="banner">
+            <div class="top">
+              <div class="left">
+                <a class="msdnLogoImg" href="https://msdn.microsoft.com/en-us" title="MSDN home" ms.cmpgrp="mslogo">
+                  <div class="clip70x15">
+                    <img alt="Microsoft Logo" id="msft-logo" class="msft-logo" src="https://i-msdn.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636164955987254475" />
+                  </div>
+                </a>
+                <div class="GrayPipeDiv clip1x18">
+                  <img alt="Gray Pipe" class="GrayPipe" src="https://i-msdn.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636164955987254475" />
+                </div>
+                  <a class="DevCenterFullNameNonMegaBlade" href="https://msdn.microsoft.com/en-us">Developer Network</a>
+                <a class="DevCenterFullName" href="https://msdn.microsoft.com/en-us">Developer Network</a>
+                <a class="DevCenterShortName" href="https://msdn.microsoft.com/en-us">Developer</a>
+              </div>
+              <div class="right" ms.cmpgrp="aux nav">
+                <div id="signIn" aria-label="Profile button">
+
+  <div class="profileImage"></div>
+
+
+
+<a class="scarabLink" href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1483400442&amp;rver=6.7.6640.0&amp;wp=mcmbi&amp;wlcxt=msdn%24msdn%24msdn&amp;wreply=https%3a%2f%2fmsdn.microsoft.com%2fen-us%2fdn308572&amp;lc=1033&amp;id=254354&amp;mkt=en-us">Sign in</a></div>
+
+
+
+
+                <div class="auxNav">
+                  <div>
+                    <div data-fragmentName="Subscriptions" id="Fragment_Subscriptions" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="https://msdn.microsoft.com/subscriptions/manage/hh442900" id="Subscriptions_2153_1" xmlns="http://www.w3.org/1999/xhtml">MSDN subscriptions</a>
+</div>
+                    <div data-fragmentName="GetTools" id="Fragment_GetTools" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://go.microsoft.com/fwlink/?LinkId=309297&amp;clcid=0x409&amp;slcid=0x409&amp;campaign=o~msft~msdn~gettools-header~dn308572" id="GetTools_2153_3" xmlns="http://www.w3.org/1999/xhtml">Get tools</a>
+</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="row middleRow">
+            <div class="expandTop">
+              <div class="left"></div>
+              <div class="right"></div>
+            </div>
+          </div>
+        </div>
+        <div id="buttomRowWrapper" class="bg_default">
+          <div class="row buttomRow bg_default">
+            <div class="bottom">
+              <div class="left" role="navigation" aria-label="header toc" ms.cmpgrp="main nav">
+                <a id="grip" class="menu-icon" href="javascript:void(0)" role="button" aria-label="navigation menu"></a>
+                
+                <div id="drawer">
+                  <div class="toc">
+                    
+        <nav>
+            <ul class="navL1">
+                        <li class="inactive toggle">
+                                <a href="javascript:void(0)" role="button" aria-expanded="false">Downloads</a>
+                                <ul class="navL2">
+                                        <li class="inactive">
+
+                                                <a href="https://www.visualstudio.com/downloads/download-visual-studio-vs" role="link" title="Visual Studio">Visual Studio</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&amp;site_id=501454&amp;response_mode=form_post&amp;response_type=code+id_token&amp;redirect_uri=https%3a%2f%2fapp.vssps.visualstudio.com%2f_signedin&amp;nonce=d8f8ecb3-62" role="link" title="Subscription access">Subscription access</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/microsoft-sdks-msdn" role="link" title="SDKs">SDKs</a>
+                                        </li>
+                                        <li class="inactive toggle">
+
+                                                <a href="javascript:void(0)" title="Trial software" role="button" aria-expanded="false">Trial software</a>
+                                                <ul class="navL3">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/evalcenter" title="Free downloads" role="link">Free downloads</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/officeevaluationresources" title="Office resources" role="link">Office resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sharepoint2013resources" title="SharePoint Server 2013 resources" role="link">SharePoint Server 2013 resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sqlserver2014expressresources" title="SQL Server 2014 Express resources" role="link">SQL Server 2014 Express resources</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/windowsserver2012r2resources" title="Windows Server 2012 resources" role="link">Windows Server 2012 resources</a>
+                                                        </li>
+                                                </ul>
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                                <a href="javascript:void(0)" role="button" aria-expanded="false">Programs</a>
+                                <ul class="navL2">
+                                        <li class="inactive toggle">
+
+                                                <a href="javascript:void(0)" title="Subscriptions" role="button" aria-expanded="false">Subscriptions</a>
+                                                <ul class="navL3">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/msdn-subscriptions-overview" title="Overview" role="link">Overview</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/msdn-subscriptions-administration" title="Administrators" role="link">Administrators</a>
+                                                        </li>
+                                                </ul>
+                                        </li>
+                                        <li class="inactive toggle">
+
+                                                <a href="javascript:void(0)" title="Students" role="button" aria-expanded="false">Students</a>
+                                                <ul class="navL3">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/imagine/imagine-home" title="Microsoft Imagine" role="link">Microsoft Imagine</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/microsoftstudentpartners" title="Microsoft Student Partners" role="link">Microsoft Student Partners</a>
+                                                        </li>
+                                                </ul>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/applicationbuilder" role="link" title="ISV">ISV</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://www.microsoft.com/bizspark" role="link" title="Startups">Startups</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://rewards.msdn.microsoft.com/" role="link" title="TechRewards">TechRewards</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="http://events.msdn.microsoft.com/" role="link" title="Events">Events</a>
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                                <a href="javascript:void(0)" role="button" aria-expanded="false">Community</a>
+                                <ul class="navL2">
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/magazine/dd767791" role="link" title="Magazine">Magazine</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://social.msdn.microsoft.com/forums/" role="link" title="Forums">Forums</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://blogs.msdn.microsoft.com/" role="link" title="Blogs">Blogs</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="http://channel9.msdn.com/" role="link" title="Channel 9">Channel 9</a>
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                                <a href="javascript:void(0)" role="button" aria-expanded="false">Documentation</a>
+                                <ul class="navL2">
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/library" role="link" title="APIs and reference">APIs and reference</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/developer-centers-msdn" role="link" title="Dev centers">Dev centers</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://code.msdn.microsoft.com/" role="link" title="Samples">Samples</a>
+                                        </li>
+                                        <li class="inactive">
+
+                                                <a href="https://msdn.microsoft.com/retiredcontent" role="link" title="Retired content">Retired content</a>
+                                        </li>
+                                </ul>
+                        </li>
+            </ul>
+        </nav>
+
+                  </div>
+                </div>
+              </div>
+              <div class="right" ms.title="search" role="search">
+                <div data-fragmentName="SearchBox" id="Fragment_SearchBox" xmlns="http://www.w3.org/1999/xhtml">
+  <div class="SearchBox">
+    <form id="HeaderSearchForm" name="HeaderSearchForm" method="get">
+      <button id="FakeHeaderSearchButton" value="Search" type="submit" class="header-search-button" role="button" aria-label="search finder">
+        <div id="search-finder-div" class="clip16x20">
+          <img alt="search finder" id="search-finder" class="search-finder" src="https://i-msdn.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636164955987254475" />
+        </div>
+      </button>
+      <button id="HeaderSearchButton" style="display:none"></button>
+      <div id="searchSplitter"></div>
+      <div id="searchCloseIconDiv" class="clip16x20" tabindex="0">
+        <img alt="search clear" id="searchCloseIcon" class="search-clear-x" src="https://i-msdn.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636164955987254475" />
+      </div>
+      <div id="searchTextContainer" style="width: 0;">
+        <input id="HeaderSearchTextBox" name="query" type="text" aria-label="search edit textbox" maxlength="200" onfocus="Epx.Controls.SearchBox.watermarkFocus(event, this.title)" onblur="Epx.Controls.SearchBox.watermarkBlur(event, this.title)" />
+      </div>
+    </form>
+    
+    
+  </div>
+</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </header>
+
+    </div>
+
+    
+    
+    
+    <div id="jumpInfo" style="display: none">Weâ€™re sorry. The content you requested has been removed. Youâ€™ll be auto redirected in 1 second.</div>
+
+            
+  
+
+
+
+
+
+
+            <div id="content">
+                
+
+
+
+
+
+
+
+
+    
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+    <div data-fragmentName="CSS" id="Fragment_CSS">
+      <div class="RichText">
+        <link href="https://www.microsoft.com/feeds/MSDN/en-us/home/home_2016-07.css" rel="stylesheet" type="text/css" xmlns="" />
+        <style xmlns="">#Fragment_HeroHeadlines {
+		background-color: white;
+	}
+	.heropaneltext {
+		color: black;
+	}
+	.heropaneltext .cta-button a {
+		background-color: white;
+		color: black !important;
+		border: 1px solid #ADA5A1;
+	}
+</style>
+      </div>
+    </div>
+    <div data-fragmentName="HeroHeadlines" id="Fragment_HeroHeadlines">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+          <div data-fragmentName="herocontent" id="Fragment_herocontent">
+            <div class="RichText">
+              <div class="heropaneltext" xmlns="">
+                <a href="https://msdn.microsoft.com/magazine/" target="_blank">
+                  <h1>MSDN Magazine: See the latest issue</h1>
+                  <p>Check out the January issue today</p>
+                </a>
+              </div>
+              <div class="heropanelimg" xmlns="">
+                <a href="https://msdn.microsoft.com/magazine/" target="_blank">
+                  <img id="516eMSDNMagazine-450x306" alt="MSDN Magazine: See the latest issue" src="https://i-msdn.sec.s-msft.com/dynimg/IC865030.png" title="MSDN Magazine: See the latest issue" />Â </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-fragmentName="ResourceBand" id="Fragment_ResourceBand">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+          <div data-fragmentName="ResourceBandcontent" id="Fragment_ResourceBandcontent">
+            <div class="RichText">
+              <div class="resourceband" xmlns="">
+                <div class="resourceblock">
+                  <a href="/subscriptions">
+                    <img id="Subscriptions" alt="Subscriptions" src="https://i-msdn.sec.s-msft.com/dynimg/IC858070.png" title="Subscriptions" />
+                  </a>
+                  <p>
+                    <a href="/subscriptions">Subscriptions</a>
+                  </p>
+                </div>
+                <div class="resourceblock">
+                  <a href="/developer-centers-msdn">
+                    <img id="DevCenters" alt="Dev Centers" src="https://i-msdn.sec.s-msft.com/dynimg/IC858071.png" title="Dev Centers" />
+                  </a>
+                  <p>
+                    <a href="/developer-centers-msdn">Dev Centers</a>
+                  </p>
+                </div>
+                <div class="resourceblock">
+                  <a href="/library">
+                    <img id="Library" alt="MSDN Library" src="https://i-msdn.sec.s-msft.com/dynimg/IC858074.png" title="MSDN Library" />
+                  </a>
+                  <p>
+                    <a href="/library">Library</a>
+                  </p>
+                </div>
+                <div class="resourceblock">
+                  <a href="https://www.visualstudio.com">
+                    <img id="VisualStudio" alt="Visual Studio" src="https://i-msdn.sec.s-msft.com/dynimg/IC858073.png" title="Visual Studio" />
+                  </a>
+                  <p>
+                    <a href="https://www.visualstudio.com">Visual Studio</a>
+                  </p>
+                </div>
+                <div class="resourceblock">
+                  <a href="/magazine/">
+                    <img id="MSDNMag" alt="MSDN Magazine" src="https://i-msdn.sec.s-msft.com/dynimg/IC858072.png" title="MSDN Magazine" />
+                  </a>
+                  <p>
+                    <a href="/magazine/">MSDN Magazine</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-fragmentName="FeaturesHeading" id="Fragment_FeaturesHeading">
+      <div class="RichText">
+        <h2 xmlns="">Build, design, develop</h2>
+      </div>
+    </div>
+    <div data-fragmentName="Features" id="Fragment_Features">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+          <div data-fragmentName="ContentInclude_1" id="Fragment_ContentInclude_1">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+                <div data-fragmentName="Feature1" id="Fragment_Feature1">
+                  <div class="block type4 topImage ">
+                    
+                    <div class="title">Blog</div>
+                    <div class="image">
+                      <a id="DetailedLinkWithImage_2_16252_4" href="http://www.hanselman.com/blog/ExploringTheTessel2IoTAndRoboticsDevelopmentBoard.aspx" target="_blank" title="Tessel 2 IoT and robotics development board" data-analyticsTag="Page_MoreInfo_C9_CTAs_Section_PositionCTA1_HomeFeature1(ContentIDmt450451)" data-analyticsId="Page_MoreInfo_C9_CTAs_Section_PositionCTA1_HomeFeature1(ContentIDmt450451)_DetailedLinkWithImage_2_16252_4">
+                        <img id="Tessel2IOTBoard450x306" alt="Tessel 2 IoT and robotics development board" src="https://i-msdn.sec.s-msft.com/dynimg/IC864998.jpg" title="Tessel 2 IoT and robotics development board" xmlns="" />
+                      </a>
+                    </div>
+                    <div class="textContent">
+                      <div class="link">
+                        <a href="http://www.hanselman.com/blog/ExploringTheTessel2IoTAndRoboticsDevelopmentBoard.aspx" title="Tessel 2 IoT and robotics development board" target="_blank" id="DetailedLinkWithImage_2_16252_4" data-analyticsTag="Page_MoreInfo_C9_CTAs_Section_PositionCTA1_HomeFeature1(ContentIDmt450451)" data-analyticsId="Page_MoreInfo_C9_CTAs_Section_PositionCTA1_HomeFeature1(ContentIDmt450451)_DetailedLinkWithImage_2_16252_4" xmlns="http://www.w3.org/1999/xhtml">Tessel 2 IoT and robotics development board</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-fragmentName="ContentInclude_2" id="Fragment_ContentInclude_2">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+                <div data-fragmentName="DetailedLinkWithImage_12" id="Fragment_DetailedLinkWithImage_12">
+                  <div class="block type4 topImage ">
+                    
+                    <div class="title">Download</div>
+                    <div class="image">
+                      <a id="DetailedLinkWithImage_12_16254_13" href="https://www.visualstudio.com/vs/visual-studio-2017-rc/" target="_blank" title="Visual Studio 2017 Release Candidate" data-analyticsTag="Video_Other_C9_CTAs_Section_PositionCTA2_HomeFeature2(ContentIDmt450452)" data-analyticsId="Video_Other_C9_CTAs_Section_PositionCTA2_HomeFeature2(ContentIDmt450452)_DetailedLinkWithImage_12_16254_13">
+                        <img id="VS-MonitorDownloadCloud-2" alt="Visual Studio 2017 Release Candidate" src="https://i-msdn.sec.s-msft.com/dynimg/IC865031.png" title="Visual Studio 2017 Release Candidate" xmlns="" />
+                      </a>
+                    </div>
+                    <div class="textContent">
+                      <div class="link">
+                        <a href="https://www.visualstudio.com/vs/visual-studio-2017-rc/" title="Visual Studio 2017 Release Candidate" target="_blank" id="DetailedLinkWithImage_12_16254_13" data-analyticsTag="Video_Other_C9_CTAs_Section_PositionCTA2_HomeFeature2(ContentIDmt450452)" data-analyticsId="Video_Other_C9_CTAs_Section_PositionCTA2_HomeFeature2(ContentIDmt450452)_DetailedLinkWithImage_12_16254_13" xmlns="http://www.w3.org/1999/xhtml">Visual Studio 2017 Release Candidate</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-fragmentName="ContentInclude_3" id="Fragment_ContentInclude_3">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns:mtps="http://msdn2.microsoft.com/mtps">
+                <div data-fragmentName="Feature3" id="Fragment_Feature3">
+                  <div class="block type4 topImage ">
+                    
+                    <div class="title">Resources</div>
+                    <div class="image">
+                      <a id="DetailedLinkWithImage_2_16252_4" href="https://developer.microsoft.com/windows/windows-10-for-developers" target="_blank" title="Windows 10 Anniversary Update" data-analyticsTag="Page_MoreInfo_Visual Studio_CTAs_Section_PositionCTA3_HomeFeature3(ContentIDmt450453)" data-analyticsId="Page_MoreInfo_Visual Studio_CTAs_Section_PositionCTA3_HomeFeature3(ContentIDmt450453)_DetailedLinkWithImage_2_16252_4">
+                        <img id="WindowsLogoBlueBackground1-450x306" alt="Windows 10 Anniversary Update" src="https://i-msdn.sec.s-msft.com/dynimg/IC865032.png" title="Windows 10 Anniversary Update" xmlns="" />
+                      </a>
+                    </div>
+                    <div class="textContent">
+                      <div class="link">
+                        <a href="https://developer.microsoft.com/windows/windows-10-for-developers" title="Windows 10 Anniversary Update" target="_blank" id="DetailedLinkWithImage_2_16252_4" data-analyticsTag="Page_MoreInfo_Visual Studio_CTAs_Section_PositionCTA3_HomeFeature3(ContentIDmt450453)" data-analyticsId="Page_MoreInfo_Visual Studio_CTAs_Section_PositionCTA3_HomeFeature3(ContentIDmt450453)_DetailedLinkWithImage_2_16252_4" xmlns="http://www.w3.org/1999/xhtml">Windows 10 Anniversary Update</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-fragmentName="JS" id="Fragment_JS">
+      <div class="RichText">
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js" xmlns="">/* */
+</script>
+        <script src="https://www.microsoft.com/feeds/MSDN/en-us/home/home.js" xmlns="">/* */
+</script>
+      </div>
+    </div>
+  </div>
+</div>
+            </div>
+            
+
+
+<input name="__RequestVerificationToken" type="hidden" value="yvHO7kAGpwSsPj2743OPIXwHdhqGGrfUcYFZ-IMYH5gU6GTA1br1HS-OQOT301nOQ6AGp7bAjR5OJiMNirekYkwJwD81" />
+<input id="ratingSubmitUrl" type="hidden" value="https://msdn.microsoft.com/en-us/library/feedback/add/dn308572" />
+<input id="isTopicRated" type="hidden" value="false" />
+
+            
+
+    
+    <link type="text/css" rel="stylesheet" />
+    
+        
+    <div id="ux-footer" class="" style="" dir="ltr" ms.pgarea="footer">
+            
+                
+            <div id="footerSock" class="">
+                <div id="footerSockInner">
+
+                        <div class="footerSockLeft"><div data-fragmentName="SocialLinks" id="Fragment_SocialLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">Follow us</div>
+    <ul class="links">
+      <li>
+        <a href="http://www.facebook.com/microsoftdeveloper" target="_blank" id="SocialLinks_2151_19" class="facebook" xmlns="http://www.w3.org/1999/xhtml">http://www.facebook.com/microsoftdeveloper</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/msdev" target="_blank" id="SocialLinks_2151_20" class="twitter" xmlns="http://www.w3.org/1999/xhtml">https://twitter.com/msdev</a>
+      </li>
+      <li>
+        <a href="http://plus.google.com/111221966647232053570/" target="_blank" id="SocialLinks_2151_21" class="googlePlus" xmlns="http://www.w3.org/1999/xhtml">http://plus.google.com/111221966647232053570/</a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+                        <div class="footerSockRight"><div data-fragmentName="Newsletter" id="Fragment_Newsletter" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="https://msdn.microsoft.com/flashnewsletter" title="Sign up for the MSDN Newsletter" id="Newsletter_2148_19" xmlns="http://www.w3.org/1999/xhtml">Sign up for the MSDN Newsletter</a>
+</div></div>
+                    <div class="footerSockCenter">
+                            <a name="feedback"></a>
+
+<div class="rating">
+    <div id="ratingSection1">
+        <div class="title">
+            Is this page helpful?
+        </div>
+        <div class="description">
+            Your feedback about this content is important.<br />Let us know what you think.
+        </div>
+        <div class="buttons">
+            <button class="button" id="ratingYes" aria-label="Yes, this page was helpful">Yes</button>
+            <button class="button" id="ratingNo" aria-label="No, this page was not helpful">No</button>
+        </div>
+        <input id="ratingValue" type="hidden" value="" />
+    </div>
+    <div id="ratingSection2">
+        <div class="title left">
+            Additional feedback?
+        </div>
+        <textarea id="ratingText" rows="6" cols="" maxlength="1500"></textarea>
+        <div class="right">
+            <div class="counter">
+                <span id="feedbackTextCounter">1500</span> characters remaining
+            </div>
+            <div class="buttons">
+                <button class="button" id="ratingSubmit" aria-label="Submit my additional feedback">Submit</button>
+                <button class="button" id="ratingSkipThis" aria-label="Skip additional feedback">Skip this</button>
+            </div>
+        </div>
+    </div>
+    <div id="ratingSection3">
+        <div class="title">
+            Thank you!
+        </div>
+        <div class="description">
+            We appreciate your feedback.
+        </div>
+    </div>
+    
+    
+    <div id="contentFeedbackQAContainer" style="display: none;"></div>
+</div>
+    
+                                            </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            
+
+        <footer class="top" role="navigation" aria-label="footer">
+            <div data-fragmentName="LeftLinks" id="Fragment_LeftLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <h4 class="linkListTitle">Dev centers</h4>
+    <ul class="links">
+      <li>
+        <a href="https://dev.windows.com" id="LeftLinks_2148_1" class="windowsBlue" xmlns="http://www.w3.org/1999/xhtml">Windows</a>
+      </li>
+      <li>
+        <a href="http://dev.office.com" id="LeftLinks_2148_3" class="office" xmlns="http://www.w3.org/1999/xhtml">Office</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/vstudio" id="LeftLinks_2148_4" class="visualStudio" xmlns="http://www.w3.org/1999/xhtml">Visual Studio</a>
+      </li>
+      <li>
+        <a href="http://azure.microsoft.com/en-us/documentation/" target="_blank" id="LeftLinks_2148_12" xmlns="http://www.w3.org/1999/xhtml">Microsoft Azure</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/developer-centers-msdn" id="LeftLinks_2148_5" xmlns="http://www.w3.org/1999/xhtml">More...</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            <div id="rightLinks">
+                <div data-fragmentName="CenterLinks1" id="Fragment_CenterLinks1" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <h4 class="linkListTitle">Learning resources</h4>
+    <ul class="links">
+      <li>
+        <a href="http://www.microsoftvirtualacademy.com/" id="CenterLinks1_2151_4" xmlns="http://www.w3.org/1999/xhtml">Microsoft Virtual Academy</a>
+      </li>
+      <li>
+        <a href="http://channel9.msdn.com/" id="CenterLinks1_2151_5" xmlns="http://www.w3.org/1999/xhtml">Channel 9</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/magazine/" id="CenterLinks1_2151_7" xmlns="http://www.w3.org/1999/xhtml">MSDN Magazine</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentName="CenterLinks2" id="Fragment_CenterLinks2" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <h4 class="linkListTitle">Community</h4>
+    <ul class="links">
+      <li>
+        <a href="https://social.msdn.microsoft.com/forums/en-us/home" id="CenterLinks2_2151_8" xmlns="http://www.w3.org/1999/xhtml">Forums</a>
+      </li>
+      <li>
+        <a href="http://blogs.msdn.com/b/developer-tools/" id="CenterLinks2_2151_9" xmlns="http://www.w3.org/1999/xhtml">Blogs</a>
+      </li>
+      <li>
+        <a href="http://www.codeplex.com" id="CenterLinks2_2151_10" xmlns="http://www.w3.org/1999/xhtml">Codeplex</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentName="CenterLinks3" id="Fragment_CenterLinks3" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <h4 class="linkListTitle">Support</h4>
+    <ul class="links">
+      <li>
+        <a href="https://msdn.microsoft.com/hh361695" id="CenterLinks3_2151_11" xmlns="http://www.w3.org/1999/xhtml">Self support</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentName="CenterLinks4" id="Fragment_CenterLinks4" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <h4 class="linkListTitle">Programs</h4>
+    <ul class="links">
+      <li>
+        <a href="https://www.microsoft.com/bizspark/" id="CenterLinks4_2151_13" xmlns="http://www.w3.org/1999/xhtml">BizSpark (for startups)</a>
+      </li>
+      <li>
+        <a href="https://imagine.microsoft.com/en-us" id="CenterLinks4_2151_22" xmlns="http://www.w3.org/1999/xhtml">Microsoft Imagine (for students)</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            </div>
+        </footer>
+
+        <footer class="bottom" role="contentinfo">
+            <span class="localeContainer">
+                
+    <form class="selectLocale" id="selectLocaleForm" action="https://msdn.microsoft.com/en-us/selectlocale-dmc">
+        <input type="hidden" name="fromPage" value="https%3a%2f%2fmsdn.microsoft.com%2fen-us%2fdn308572" />
+        <a href="#" onclick="$('#selectLocaleForm').submit();return false;" title="Change your language">United States (English)</a>
+    </form>
+
+
+            </span>
+
+            <div data-fragmentName="BottomLinks" id="Fragment_BottomLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <ul class="links horizontal">
+      <li>
+        <a href="https://msdn.microsoft.com/newsletter.aspx" id="BottomLinks_2148_7" xmlns="http://www.w3.org/1999/xhtml">Newsletter</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/dn529288" id="BottomLinks_2148_8" xmlns="http://www.w3.org/1999/xhtml">Privacy &amp; cookies</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/cc300389" id="BottomLinks_2148_9" xmlns="http://www.w3.org/1999/xhtml">Terms of use</a>
+      </li>
+      <li>
+        <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/" id="BottomLinks_2148_10" xmlns="http://www.w3.org/1999/xhtml">Trademarks</a>
+      </li>
+    </ul>
+  </div>
+</div>
+            <span class="logoLegal">
+                <span class="logoSpan clip67x13" role="img" tabindex="0" aria-label="microsoft logo">
+                    <img alt="logo" class="logo" src="https://i-msdn.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636164955987254475" />
+                </span>
+                <span class="copyright">Â© 2017 Microsoft</span>
+            </span>
+        </footer>
+    </div>
+    
+
+        </div>
+        
+
+<![CDATA[ Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use â€“ http://www.asp.net/ajaxlibrary/CDN.ashx. ]]>
+        
+    
+    
+
+        
+    <script type="text/javascript" class="mtps-injected">
+/*<![CDATA[*/
+(function(window,document){"use strict";function preload(scripts){for(var result=[],script,e,i=0;i<scripts.length;i++)script=scripts[i],script.hasOwnProperty("url")&&(e=document.createElement("script"),e.src=script.url,script.throwaway=e),result.push(script);return result}function inject(scripts,index){var script,elem;if(index>=scripts.length){delete mtps.injectScripts;return}script=scripts[index];elem=document.createElement("script");elem.className="mtps-injected";elem.async=!1;var isLoaded=!1,timeoutId=0,injectNextFnName="",injectNext=elem.onerror=function(){isLoaded||(isLoaded=!0,inject(scripts,index+1),window.clearTimeout(timeoutId),elem.onload=elem.onerror=elem.onreadystatechange=null,injectNextFnName&&delete mtps[injectNextFnName],elem.removeEventListener&&elem.removeEventListener("load",injectNext,!1))};elem.addEventListener?elem.addEventListener("load",injectNext,!1):elem.readyState==="uninitialized"?elem.onreadystatechange=function(){(this.readyState==="loaded"||this.readyState==="complete")&&injectNext()}:elem.onload=injectNext;script.hasOwnProperty("url")?(timeoutId=window.setTimeout(injectNext,12e4),elem.src=script.url):(injectNextFnName="_injectNextScript_"+index,mtps[injectNextFnName]=injectNext,timeoutId=window.setTimeout(injectNext,2e3),elem.text="try {\n"+script.txt+"\n} finally { MTPS."+injectNextFnName+" && MTPS."+injectNextFnName+"(); }");parent.appendChild(elem)}var mtps=window.MTPS||(window.MTPS={}),parent=document.getElementsByTagName("head")[0];mtps.injectScripts=function(scripts){inject(preload(scripts),0)}})(window,document);
+MTPS.injectScripts([
+	{ txt: "/**/\r\n(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { \r\n\t\"image\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"js\": \"https://i2-msdn.sec.s-msft.com\", \r\n\t\"css\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"ttf\": \"https://i-msdn.sec.s-msft.com\"\r\n});\r\n/**/" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:JumpRedirect,1:ABTestControl;/Areas/Epx/Themes/Base/Content:0,/Areas/Epx/Content/Scripts:1\u0026amp;hashKey=0EAC5B077D1C9A7E69100B980A28E439\u0026amp;v=C48EF348F8A787E28683E391B2891130" }
+]);
+
+/*]]>*/
+</script></body>
+</html>

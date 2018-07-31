@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\bin\Debug\7b-HelperMethods.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\bin\Debug\7b-HelperMethods.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\bin\Debug\7b-HelperMethods.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\obj\Debug\7b-HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\obj\Debug\7b-HelperMethods.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\7b-HelperMethods\obj\Debug\7b-HelperMethods.pdb

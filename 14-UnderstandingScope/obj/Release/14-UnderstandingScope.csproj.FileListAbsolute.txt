@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Release\14-UnderstandingScope.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Release\14-UnderstandingScope.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Release\14-UnderstandingScope.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\obj\Release\14-UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\obj\Release\14-UnderstandingScope.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\obj\Release\14-UnderstandingScope.pdb

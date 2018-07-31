@@ -1,0 +1,5 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Debug\14-UnderstandingScope.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Debug\14-UnderstandingScope.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\bin\Debug\14-UnderstandingScope.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\obj\Debug\14-UnderstandingScope.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\14-UnderstandingScope\obj\Debug\14-UnderstandingScope.pdb

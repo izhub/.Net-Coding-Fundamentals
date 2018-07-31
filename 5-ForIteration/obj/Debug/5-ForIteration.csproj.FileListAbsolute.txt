@@ -1,0 +1,6 @@
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\bin\Debug\5-ForIteration.exe.config
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\bin\Debug\5-ForIteration.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\bin\Debug\5-ForIteration.pdb
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\obj\Debug\5-ForIteration.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\obj\Debug\5-ForIteration.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\5-ForIteration\obj\Debug\5-ForIteration.pdb

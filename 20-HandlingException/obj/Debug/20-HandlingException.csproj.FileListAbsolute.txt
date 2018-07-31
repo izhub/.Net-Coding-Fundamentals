@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\bin\Debug\20-HandlingException.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\bin\Debug\20-HandlingException.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\bin\Debug\20-HandlingException.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\obj\Debug\20-HandlingException.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\obj\Debug\20-HandlingException.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\20-HandlingException\obj\Debug\20-HandlingException.pdb

@@ -1,0 +1,6 @@
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\bin\Debug\3-Decisions.exe.config
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\bin\Debug\3-Decisions.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\bin\Debug\3-Decisions.pdb
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\obj\Debug\3-Decisions.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\obj\Debug\3-Decisions.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\3-Decisions\obj\Debug\3-Decisions.pdb

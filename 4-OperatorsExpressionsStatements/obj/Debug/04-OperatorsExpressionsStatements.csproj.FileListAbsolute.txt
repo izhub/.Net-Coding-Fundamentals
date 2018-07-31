@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\bin\Debug\4-OperatorsExpressionsStatements.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\bin\Debug\4-OperatorsExpressionsStatements.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\bin\Debug\4-OperatorsExpressionsStatements.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\obj\Debug\04-OperatorsExpressionsStatements.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\obj\Debug\4-OperatorsExpressionsStatements.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\4-OperatorsExpressionsStatements\obj\Debug\4-OperatorsExpressionsStatements.pdb

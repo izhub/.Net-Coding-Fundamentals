@@ -1,0 +1,6 @@
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\bin\Debug\6-UnderstandingArrays.exe.config
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\bin\Debug\6-UnderstandingArrays.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\bin\Debug\6-UnderstandingArrays.pdb
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\obj\Debug\6-UnderstandingArrays.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\obj\Debug\6-UnderstandingArrays.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\6-UnderstandingArrays\obj\Debug\6-UnderstandingArrays.pdb

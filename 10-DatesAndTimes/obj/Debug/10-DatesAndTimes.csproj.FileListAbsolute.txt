@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\bin\Debug\10-DatesAndTimes.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\obj\Debug\10-DatesAndTimes.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\bin\Debug\10-DatesAndTimes.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\bin\Debug\10-DatesAndTimes.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\obj\Debug\10-DatesAndTimes.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\10-DatesAndTimes\obj\Debug\10-DatesAndTimes.pdb

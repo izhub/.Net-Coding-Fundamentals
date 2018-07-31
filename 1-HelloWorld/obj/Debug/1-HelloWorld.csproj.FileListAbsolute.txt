@@ -1,0 +1,6 @@
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Debug\1-HelloWorld.exe.config
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Debug\1-HelloWorld.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\bin\Debug\1-HelloWorld.pdb
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\obj\Debug\1-HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\obj\Debug\1-HelloWorld.exe
+c:\users\zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\1-HelloWorld\obj\Debug\1-HelloWorld.pdb

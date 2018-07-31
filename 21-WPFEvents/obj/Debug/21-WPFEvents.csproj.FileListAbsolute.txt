@@ -1,0 +1,17 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\bin\Debug\21-WPFEvents.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\bin\Debug\21-WPFEvents.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\bin\Debug\21-WPFEvents.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\App.g.cs
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents_MarkupCompile.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents_MarkupCompile.lref
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\MainWindow.baml
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.g.resources
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\_21_WPFEvents.Properties.Resources.resources
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.csproj.GenerateResource.Cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.pdb
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\MS Academy\BTaborCodingFundamentals\21-WPFEvents\bin\Debug\21-WPFEvents.exe.config
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\MS Academy\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.exe
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\MS Academy\BTaborCodingFundamentals\21-WPFEvents\obj\Debug\21-WPFEvents.pdb

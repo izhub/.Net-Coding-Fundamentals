@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\bin\Debug\8-WhileIteration.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\bin\Debug\8-WhileIteration.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\bin\Debug\8-WhileIteration.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\obj\Debug\8-WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\obj\Debug\8-WhileIteration.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\8-WhileIteration\obj\Debug\8-WhileIteration.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\bin\Debug\13-ClassesInheritance.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\obj\Debug\13-ClassesInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\bin\Debug\13-ClassesInheritance.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\bin\Debug\13-ClassesInheritance.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\obj\Debug\13-ClassesInheritance.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\13-ClassesInheritance\obj\Debug\13-ClassesInheritance.pdb

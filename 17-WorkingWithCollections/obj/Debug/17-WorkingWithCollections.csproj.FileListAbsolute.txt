@@ -1,0 +1,6 @@
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\bin\Debug\17-WorkingWithCollections.exe.config
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\bin\Debug\17-WorkingWithCollections.exe
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\bin\Debug\17-WorkingWithCollections.pdb
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\obj\Debug\17-WorkingWithCollections.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\obj\Debug\17-WorkingWithCollections.exe
+C:\Users\Zahid\Documents\Visual Studio 2015\Projects\BTaborCodingFundamentals\17-WorkingWithCollections\obj\Debug\17-WorkingWithCollections.pdb

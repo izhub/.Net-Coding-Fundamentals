@@ -1,0 +1,6 @@
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\bin\Debug\11-SimpleClasses.exe.config
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\bin\Debug\11-SimpleClasses.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\bin\Debug\11-SimpleClasses.pdb
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\obj\Debug\11-SimpleClasses.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\obj\Debug\11-SimpleClasses.exe
+C:\Users\Zahid\documents\visual studio 2015\Projects\BTaborCodingFundamentals\11-SimpleClasses\obj\Debug\11-SimpleClasses.pdb

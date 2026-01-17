@@ -12,7 +12,6 @@ reviews:
     Summarize the PR in 3-5 bullets covering intent, key changes, and notable risks or follow-ups. Mention test coverage only if stated.
   review_status: true
   path_instructions:
-    - paths:
-        - "**/*.cs"
+    - path: "**/*.cs"
       instructions: >
         Focus on logic correctness, edge cases, performance hotspots, and adherence to C# best practices; call out missing tests where behavior changes.

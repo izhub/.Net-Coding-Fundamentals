@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\bin\Debug\net8.0\15-AssembliesAndNamespaces.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\refint\15-AssembliesAndNamespaces.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\15-AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\15-AssembliesAndNamespaces\obj\Debug\net8.0\ref\15-AssembliesAndNamespaces.dll

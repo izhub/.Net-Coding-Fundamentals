@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\bin\Debug\net8.0\14-UnderstandingScope.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\refint\14-UnderstandingScope.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\14-UnderstandingScope.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\14-UnderstandingScope\obj\Debug\net8.0\ref\14-UnderstandingScope.dll

@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\bin\Debug\net8.0\12-ObjectLifeTime.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\refint\12-ObjectLifeTime.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\12-ObjectLifeTime.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\12-ObjectLifeTime\obj\Debug\net8.0\ref\12-ObjectLifeTime.dll

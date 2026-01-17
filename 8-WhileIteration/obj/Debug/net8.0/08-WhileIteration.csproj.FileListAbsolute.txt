@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\bin\Debug\net8.0\8-WhileIteration.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\08-WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\08-WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\08-WhileIteration.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\8-WhileIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\refint\8-WhileIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\8-WhileIteration.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\08-WhileIteration.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\8-WhileIteration\obj\Debug\net8.0\ref\8-WhileIteration.dll

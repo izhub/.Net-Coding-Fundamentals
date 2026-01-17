@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\bin\Debug\net8.0\6-UnderstandingArrays.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\06-UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\06-UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\06-UnderstandingArrays.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\6-UnderstandingArrays.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\refint\6-UnderstandingArrays.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\6-UnderstandingArrays.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\06-UnderstandingArrays.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\6-UnderstandingArrays\obj\Debug\net8.0\ref\6-UnderstandingArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\01-HelloWorld.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\bin\Debug\net8.0\1-HelloWorld.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\1-HelloWorld.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\refint\1-HelloWorld.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\1-HelloWorld.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\01-HelloWorld.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\1-HelloWorld\obj\Debug\net8.0\ref\1-HelloWorld.dll

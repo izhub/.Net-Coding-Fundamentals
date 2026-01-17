@@ -1,34 +1,18 @@
-﻿language: "ja-JP"   # 日本語でレビューしたい場合 "ja-JP" に変更可能
+﻿language: "en-US"   # change to "ja-JP" for Japanese reviews
 early_access: false
+tone_instructions: "Clear, concise, and actionable feedback; prioritize correctness, maintainability, and security; avoid nitpicks."
 
 reviews:
   profile: "default"
   auto_review:
-    enabled: true     # 自動レビューを有効化
-    drafts: false     # ドラフト PR のレビューを無効
+    enabled: true
+    drafts: false
   high_level_summary: true
+  high_level_summary_instructions: |
+    Summarize the PR in 3-5 bullets covering intent, key changes, and notable risks or follow-ups. Mention test coverage only if stated.
   review_status: true
-
-# (オプション) 自動レビューで使う基本プロンプト設定
-prompts:
-  # PR の全体概要を説明させるプロンプト
-  summary: |
-    Provide a clear summary of the changes in this pull request, including:
-      * What features or fixes were introduced
-      * Why these changes were made
-      * Any potential impacts or side effects
-
-  # コード行ごとの指摘を出すプロンプト
-  review: |
-    For each file in this pull request, analyze the diff and provide:
-      * Bug risks or potential errors
-      * Suggestions for improving readability and maintainability
-      * Security and performance considerations
-      * Best practice recommendations based on commonly accepted standards
-      * No need to comment on trivial whitespace changes
-
-  # レビューのトーンや出力形式を指定
-  format: |
-    Write responses clearly and concisely.
-    Group comments by file and use markdown headings when possible.
-    Provide actionable suggestions, not just observations.
+  path_instructions:
+    - paths:
+        - "**/*.cs"
+      instructions: >
+        Focus on logic correctness, edge cases, performance hotspots, and adherence to C# best practices; call out missing tests where behavior changes.

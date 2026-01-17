@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\bin\Debug\net8.0\3-Decisions.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\03-Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\03-Decisions.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\03-Decisions.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\3-Decisions.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\refint\3-Decisions.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\3-Decisions.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\03-Decisions.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\3-Decisions\obj\Debug\net8.0\ref\3-Decisions.dll

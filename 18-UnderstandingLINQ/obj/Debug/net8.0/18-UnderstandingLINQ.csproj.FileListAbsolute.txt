@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\bin\Debug\net8.0\18-UnderstandingLINQ.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\refint\18-UnderstandingLINQ.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\18-UnderstandingLINQ.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\18-UnderstandingLINQ\obj\Debug\net8.0\ref\18-UnderstandingLINQ.dll

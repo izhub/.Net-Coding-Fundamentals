@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\bin\Debug\net8.0\2-Variables.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\02-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\02-Variables.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\02-Variables.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\2-Variables.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\refint\2-Variables.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\2-Variables.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\02-Variables.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\2-Variables\obj\Debug\net8.0\ref\2-Variables.dll

@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\bin\Debug\net8.0\5-ForIteration.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\05-ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\05-ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\05-ForIteration.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\5-ForIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\refint\5-ForIteration.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\5-ForIteration.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\05-ForIteration.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\5-ForIteration\obj\Debug\net8.0\ref\5-ForIteration.dll

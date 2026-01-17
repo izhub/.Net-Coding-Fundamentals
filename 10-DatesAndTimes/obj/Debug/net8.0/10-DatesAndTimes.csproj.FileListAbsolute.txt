@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\bin\Debug\net8.0\10-DatesAndTimes.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\refint\10-DatesAndTimes.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\10-DatesAndTimes.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\10-DatesAndTimes\obj\Debug\net8.0\ref\10-DatesAndTimes.dll

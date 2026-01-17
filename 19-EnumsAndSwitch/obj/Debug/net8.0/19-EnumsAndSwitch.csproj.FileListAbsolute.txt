@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\bin\Debug\net8.0\19-EnumsAndSwitch.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\refint\19-EnumsAndSwitch.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\19-EnumsAndSwitch.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\19-EnumsAndSwitch\obj\Debug\net8.0\ref\19-EnumsAndSwitch.dll

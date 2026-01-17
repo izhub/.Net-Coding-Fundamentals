@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\bin\Debug\net8.0\CreatingAddingAssemblies.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\16-CreatingAddingAssemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\16-CreatingAddingAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\16-CreatingAddingAssemblies.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\CreatingAddingAssemblies.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\refint\CreatingAddingAssemblies.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\CreatingAddingAssemblies.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\16-CreatingAddingAssemblies.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\CreatingAddingAssemblies\obj\Debug\net8.0\ref\CreatingAddingAssemblies.dll

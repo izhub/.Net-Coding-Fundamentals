@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\bin\Debug\net8.0\7a-HelperMethods.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\07a-HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\07a-HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\07a-HelperMethods.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\7a-HelperMethods.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\refint\7a-HelperMethods.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\7a-HelperMethods.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\07a-HelperMethods.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\7a-HelperMethods\obj\Debug\net8.0\ref\7a-HelperMethods.dll

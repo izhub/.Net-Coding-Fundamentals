@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "20-HandlingException/1.0.0": {
+        "runtime": {
+          "20-HandlingException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20-HandlingException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

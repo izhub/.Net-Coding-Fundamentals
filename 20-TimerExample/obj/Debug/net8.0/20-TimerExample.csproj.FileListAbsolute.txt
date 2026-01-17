@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\bin\Debug\net8.0\20-TimerExample.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\refint\20-TimerExample.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\20-TimerExample.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-TimerExample\obj\Debug\net8.0\ref\20-TimerExample.dll

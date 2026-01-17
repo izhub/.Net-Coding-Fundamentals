@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\bin\Debug\net8.0\20-HandlingException.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\refint\20-HandlingException.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\20-HandlingException.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\20-HandlingException\obj\Debug\net8.0\ref\20-HandlingException.dll

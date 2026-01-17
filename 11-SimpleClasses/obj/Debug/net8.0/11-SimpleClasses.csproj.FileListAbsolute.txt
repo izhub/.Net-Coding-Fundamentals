@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\bin\Debug\net8.0\11-SimpleClasses.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\refint\11-SimpleClasses.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\11-SimpleClasses.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\11-SimpleClasses\obj\Debug\net8.0\ref\11-SimpleClasses.dll

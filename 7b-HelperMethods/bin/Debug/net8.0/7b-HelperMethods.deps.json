@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7b-HelperMethods/1.0.0": {
+        "runtime": {
+          "7b-HelperMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7b-HelperMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

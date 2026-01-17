@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\bin\Debug\net8.0\13-ClassesInheritance.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\refint\13-ClassesInheritance.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\13-ClassesInheritance.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\13-ClassesInheritance\obj\Debug\net8.0\ref\13-ClassesInheritance.dll

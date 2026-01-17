@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\bin\Debug\net8.0\4-OperatorsExpressionsStatements.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\04-OperatorsExpressionsStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\04-OperatorsExpressionsStatements.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\04-OperatorsExpressionsStatements.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\4-OperatorsExpressionsStatements.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\refint\4-OperatorsExpressionsStatements.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\4-OperatorsExpressionsStatements.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\04-OperatorsExpressionsStatements.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\4-OperatorsExpressionsStatements\obj\Debug\net8.0\ref\4-OperatorsExpressionsStatements.dll

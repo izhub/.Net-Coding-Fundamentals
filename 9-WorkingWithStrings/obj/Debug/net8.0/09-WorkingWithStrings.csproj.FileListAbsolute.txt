@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\bin\Debug\net8.0\9-WorkingWithStrings.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\09-WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\09-WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\09-WorkingWithStrings.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\9-WorkingWithStrings.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\refint\9-WorkingWithStrings.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\9-WorkingWithStrings.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\09-WorkingWithStrings.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\9-WorkingWithStrings\obj\Debug\net8.0\ref\9-WorkingWithStrings.dll

@@ -1,0 +1,14 @@
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.exe
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.dll.config
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.deps.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.runtimeconfig.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\bin\Debug\net8.0\17-WorkingWithCollections.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.sourcelink.json
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\refint\17-WorkingWithCollections.dll
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.pdb
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\17-WorkingWithCollections.genruntimeconfig.cache
+C:\Users\drago\OneDrive\Documents\GitHub\.Net-Coding-Fundamentals\17-WorkingWithCollections\obj\Debug\net8.0\ref\17-WorkingWithCollections.dll

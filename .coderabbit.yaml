@@ -3,7 +3,7 @@ early_access: false
 tone_instructions: "Clear, concise, and actionable feedback; prioritize correctness, maintainability, and security; avoid nitpicks."
 
 reviews:
-  profile: "default"
+  profile: "chill"
   auto_review:
     enabled: true
     drafts: false

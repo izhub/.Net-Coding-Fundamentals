@@ -1,0 +1,17 @@
+﻿language: "en-US"   # change to "ja-JP" for Japanese reviews
+early_access: false
+tone_instructions: "Clear, concise, and actionable feedback; prioritize correctness, maintainability, and security; avoid nitpicks."
+
+reviews:
+  profile: "chill"
+  auto_review:
+    enabled: true
+    drafts: false
+  high_level_summary: true
+  high_level_summary_instructions: |
+    Summarize the PR in 3-5 bullets covering intent, key changes, and notable risks or follow-ups. Mention test coverage only if stated.
+  review_status: true
+  path_instructions:
+    - path: "**/*.cs"
+      instructions: >
+        Focus on logic correctness, edge cases, performance hotspots, and adherence to C# best practices; call out missing tests where behavior changes.

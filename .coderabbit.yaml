@@ -2,7 +2,7 @@
 early_access: false
 
 reviews:
-  profile: "default"
+  profile: "chill"
   auto_review:
     enabled: true     # 自動レビューを有効化
     drafts: false     # ドラフト PR のレビューを無効
